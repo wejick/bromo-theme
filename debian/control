@@ -1,0 +1,13 @@
+Source: bromo-theme
+Section: gnome
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Vcs-Git: https://gitlab.com/cho2/bromo-theme.git
+
+Package: bromo-theme
+Architecture: all
+Depends: ${misc:Depends}, gtk3-engines-unico, gtk2-engines-murrine
+Description: Bromo Theme
+ A theme for Manokwari on BlankOn. Based on Arc Theme.

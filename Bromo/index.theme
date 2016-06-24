@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Bromo
+Comment=Bromo Manokwari theme based on Arc
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Bromo
+MetacityTheme=Bromo
+IconTheme=Tebu
+
+ButtonLayout=menu:minimize,maximize,close
