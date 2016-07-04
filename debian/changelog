@@ -1,3 +1,9 @@
+bromo-theme (0.2) tambora; urgency=medium
+
+  * Add manokwari-fullscreen-dialog 
+
+ -- dotovr <dotovr@preko>  Mon, 04 Jul 2016 15:39:40 +0700
+
 bromo-theme (0.1) tambora; urgency=low
 
   * Initial release for tambora
