@@ -1,0 +1,19 @@
+.manokwari-fullscreen-dialog {
+    background-color: rgba(10, 10, 10, 0.6);
+    color: white;
+ }
+
+.manokwari-fullscreen-dialog button {
+    background-color: transparent
+    color: white;
+    border-color: rgba(10, 10, 10, 0.3);
+    border-style: solid;
+    border-width: 2px;
+ }
+.manokwari-fullscreen-dialog button:hover {
+    background-color: rgba(10, 10, 10, 0.6);
+    color: white;
+    border-color: rgba(10, 10, 10, 0.6);
+    border-style: solid;
+    border-width: 2px;
+ }
