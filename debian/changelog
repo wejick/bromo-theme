@@ -1,3 +1,12 @@
+bromo-theme (0.3) tambora; urgency=medium
+
+  * remove .manokwari-fullscreen-dialog on gtk.css
+  * added @import url("manokwari.css"); to gtk.css
+  * added manokwari.css :
+    - button dialog css script
+
+ -- Mijortsa <mijortsa@localhost>  Mon, 04 Jul 2016 19:47:29 +0700
+
 bromo-theme (0.2) tambora; urgency=medium
 
   * Add manokwari-fullscreen-dialog 

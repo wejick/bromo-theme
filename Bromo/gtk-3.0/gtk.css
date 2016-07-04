@@ -1,9 +1,3 @@
-/* Manokwari Shutdown Dialog*/
-.manokwari-fullscreen-dialog {
-    background-color: rgba(10, 10, 10, 0.6);
-    color: white;
- }
- 
 * {
   background-clip: padding-box;
   -GtkToolButton-icon-spacing: 4;
@@ -4248,3 +4242,4 @@ filechooser placessidebar.sidebar scrollbar,
 @define-color wm_icon_unfocused_bg #B6B8C0;
 @define-color wm_icon_hover_bg #7A7F8B;
 @define-color wm_icon_active_bg #ffffff;
+@import url("manokwari.css");
