@@ -1,3 +1,9 @@
+bromo-theme (0.6) tambora; urgency=medium
+
+  * apps selected hover
+
+ -- Mijortsa <mijortsa@localhost>  Fri, 08 Jul 2016 06:39:07 +0700
+
 bromo-theme (0.5) tambora; urgency=medium
 
   * font-size ui-auncher-entry span 
