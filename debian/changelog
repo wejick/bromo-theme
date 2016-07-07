@@ -1,3 +1,9 @@
+bromo-theme (0.5) tambora; urgency=medium
+
+  * font-size ui-auncher-entry span 
+
+ -- Mijortsa <mijortsa@localhost>  Thu, 07 Jul 2016 09:27:01 +0700
+
 bromo-theme (0.4) tambora; urgency=medium
 
   * change script manokwari transparent; typo
