@@ -1,3 +1,9 @@
+bromo-theme (0.7) tambora; urgency=medium
+
+  * Fixed Font-Size "px"
+
+ -- Mijortsa <mijortsa@localhost>  Sat, 09 Jul 2016 04:10:20 +0700
+
 bromo-theme (0.6) tambora; urgency=medium
 
   * apps selected hover
