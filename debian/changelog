@@ -1,3 +1,10 @@
+bromo-theme (0.8) tambora; urgency=medium
+
+  * Changes manokwari.css :
+    - rendering and smoothing webkit font
+
+ -- Mijortsa <aazis.astrojim@surabaya.di.blankon.in>  Sat, 16 Jul 2016 09:21:24 +0700
+
 bromo-theme (0.7) tambora; urgency=medium
 
   * Fixed Font-Size "px"

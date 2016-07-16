@@ -21,16 +21,23 @@
 
 .manokwari-panel {
 	background-color: #000;
-	color: #ededed;
+	color: #ddd;
+	text-shadow: 0 1px 1px #444;
+	-webkit-text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
 }
 
 .manokwari-panel-window-names {
 	background-color: #000;
 	color: #444;
-	font-size: 8px;
+	font-size: 0.62em;
+	text-shadow: 0 1px 1px #111;
+	-webkit-text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
 }
 
 .manokwari-panel-window-names:hover {
-	color: #ededed;
+	color: #ddd;
+	text-shadow: 0 1px 1px #444;
+	-webkit-font-smoothing: antialiased !important;
 }
-
