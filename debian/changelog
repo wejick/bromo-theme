@@ -1,3 +1,11 @@
+bromo-theme (0.9) tambora; urgency=medium
+
+  * manokwari.css
+    - Changes position button
+  * Added bg.png
+
+ -- Mijortsa <mijortsa@icik2.blankon.in>  Thu, 21 Jul 2016 18:28:42 +0700
+
 bromo-theme (0.8) tambora; urgency=medium
 
   * Changes manokwari.css :

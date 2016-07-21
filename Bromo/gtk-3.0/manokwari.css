@@ -1,22 +1,25 @@
 .manokwari-fullscreen-dialog {
-	background-color: rgba(10, 10, 10, 0.6);
-    	color: white;
+	background: rgba(0, 0, 0, 0.8);
+	background: url("bg.png") no-repeat center center; 
+	background-size: 100%;
+	color: white;
+	-webkit-background-size: cover;
  }
 
 .manokwari-fullscreen-dialog button {
-    	background-color: rgba(10, 10, 10, 0.6);
-    	color: white;
-    	border-color: rgba(10, 10, 10, 0.8);
-    	border-style: solid;
-    	border-width: 2px;
+    background-color: rgba(10, 10, 10, 0.6);
+    color: white;
+    border-color: #1a1a1a;
+    border-style: solid;
+    border-width: 2px;
+	margin: 0px 50px 30px -45px;
+	border-radius: 18px;
  }
  
 .manokwari-fullscreen-dialog button:hover {
-    	background-color: rgba(10, 10, 10, 1);
-    	color: white;
-    	border-color: rgba(10, 10, 10, 1);
-    	border-style: solid;
-    	border-width: 2px;
+    background-color: #000;
+    color: white;
+    border-color: #000;
  }
 
 .manokwari-panel {
@@ -41,3 +44,4 @@
 	text-shadow: 0 1px 1px #444;
 	-webkit-font-smoothing: antialiased !important;
 }
+
