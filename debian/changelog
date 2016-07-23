@@ -1,3 +1,10 @@
+bromo-theme (1.0) tambora; urgency=medium
+
+  * Update manokwari.css
+    - right click manokwari-panel
+
+ -- Mijortsa <mijortsa@icik2.blankon.in>  Sat, 23 Jul 2016 19:53:13 +0700
+
 bromo-theme (0.9) tambora; urgency=medium
 
   * manokwari.css
