@@ -1,3 +1,9 @@
+bromo-theme (1.1) tambora; urgency=medium
+
+  * fullscreen size cover
+
+ -- Syai Mif <syaimif@localhost>  Mon, 25 Jul 2016 10:54:18 +0700
+
 bromo-theme (1.0) tambora; urgency=medium
 
   * Update manokwari.css
