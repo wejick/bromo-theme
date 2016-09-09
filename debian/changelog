@@ -1,3 +1,10 @@
+bromo-theme (1.4) tambora; urgency=medium
+
+  * Update manokwari.css = PanelSidebarBox
+    -Added drawing Calendar
+
+ -- Mijortsa <mijortsa@blankon.id>  Sat, 10 Sep 2016 04:26:46 +0700
+
 bromo-theme (1.3) tambora; urgency=medium
 
   * update manokwari.css :
