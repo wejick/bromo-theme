@@ -1,3 +1,9 @@
+bromo-theme (1.4) uluwatu; urgency=medium
+
+  * rebuild for uluwatu
+
+ -- Darian Rizaludin <darian@blankon.id>  Fri, 12 May 2017 00:26:39 +0700
+
 bromo-theme (1.4) tambora; urgency=medium
 
   * Update manokwari.css = PanelSidebarBox
