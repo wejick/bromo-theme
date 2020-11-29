@@ -8,6 +8,6 @@ Vcs-Git: https://gitlab.com/cho2/bromo-theme.git
 
 Package: bromo-theme
 Architecture: all
-Depends: ${misc:Depends}, gtk3-engines-unico, gtk2-engines-murrine
+Depends: ${misc:Depends}
 Description: Bromo Theme
  A theme for Manokwari on BlankOn. Based on Arc Theme.
